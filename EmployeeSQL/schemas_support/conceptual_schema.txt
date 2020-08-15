@@ -1,0 +1,17 @@
+title
+-
+
+salaries
+-
+
+employees
+-
+
+dept_manager
+-
+
+dept_emp
+-
+
+departments
+-

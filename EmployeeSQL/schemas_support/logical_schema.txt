@@ -1,0 +1,40 @@
+title
+-
+title_id
+title
+
+salaries
+-
+emp_no
+salary
+
+employees
+rel salaries
+rel title
+rel dept_manager
+rel dept_emp
+-
+emp_no
+emp_title_id
+birth_date
+first_name
+last_name
+sex
+hire_date
+
+dept_manager
+-
+dept_no
+emp_no
+
+dept_emp
+-
+emp_no
+dept_no
+
+departments
+rel dept_manager
+rel dept_emp
+-
+dept_no
+dept_name
